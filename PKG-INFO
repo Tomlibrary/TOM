@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: TOM
+Version: 0.2
+Summary: With this library, you can search and download from Akwam.to,Mycima and you can also create IPTV and search any m3u_plus
+Author: TOM
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE.txt
